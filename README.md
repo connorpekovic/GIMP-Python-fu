@@ -1,6 +1,6 @@
 # GIMP-Python-fu Implimentation on Windows
 
-On windows, you have to put the python script in a file location: C:\Users\[user name]\AppData\Roaming\GIMP\2.10\plug-ins
+On windows, you have to put the python script in a file location: `C:\Users\[user name]\AppData\Roaming\GIMP\2.10\plug-ins`
 
 This script was implimented from following this tutorial https://www.youtube.com/watch?v=8z0VEFBSgqA
 
