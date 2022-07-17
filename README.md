@@ -1,5 +1,4 @@
-# GIMP-Python-fu
-GIMP Python-fu
+# GIMP-Python-fu Implimentation on Windows
 
 On windows, you have to put the python script in a file location: C:\Users\[user name]\AppData\Roaming\GIMP\2.10\plug-ins
 
